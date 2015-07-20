@@ -1,0 +1,11 @@
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\bin\Debug\HelloWorld.class
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\bin\Debug\JNITestApplication.exe
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\bin\Debug\JNITestApplication.pdb
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\bin\Debug\JNI.dll
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\bin\Debug\JNI.pdb
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\obj\x86\Debug\JNI Test App.csprojResolveAssemblyReference.cache
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\obj\x86\Debug\WindowsFormsApplication1.frmJNITestHarness.resources
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\obj\x86\Debug\JNITestApplication.Properties.Resources.resources
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\obj\x86\Debug\JNI Test App.csproj.GenerateResource.Cache
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\obj\x86\Debug\JNITestApplication.exe
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Test Application\obj\x86\Debug\JNITestApplication.pdb

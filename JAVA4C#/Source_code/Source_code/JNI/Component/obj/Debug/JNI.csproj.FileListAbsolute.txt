@@ -1,0 +1,5 @@
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Component\bin\Debug\JNI.dll
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Component\bin\Debug\JNI.pdb
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Component\obj\Debug\JNI.csprojResolveAssemblyReference.cache
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Component\obj\Debug\JNI.dll
+D:\Programming\C#\JAVA4C#\Source_code\Source_code\JNI\Component\obj\Debug\JNI.pdb

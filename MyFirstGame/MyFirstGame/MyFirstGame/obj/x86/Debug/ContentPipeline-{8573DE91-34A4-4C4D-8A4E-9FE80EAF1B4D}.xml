@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8573DE91-34A4-4C4D-8A4E-9FE80EAF1B4D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Programming\C#\MyFirstGame\MyFirstGame\MyFirstGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Programming\C#\MyFirstGame\MyFirstGame\MyFirstGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Programming\C#\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Programming\C#\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-27T14:26:18.959581+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
